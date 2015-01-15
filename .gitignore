@@ -1,3 +1,14 @@
+#server private 
+server/config/local.env.js
+
+#build
+.tmp
+.sass-cache
+.idea
+dist
+public
+
+
 #bower
 client/bower_components
 
